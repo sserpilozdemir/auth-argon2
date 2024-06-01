@@ -1,8 +1,8 @@
-<p align="center">
+![proj-introduction](https://github.com/sserpilozdemir/auth-argon2/assets/69975085/c7d93a60-f186-4dc9-8a00-e881aa673b6b)<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
+![proj-introduction](https://github.com/sserpilozdemir/auth-argon2/assets/69975085/353d5e60-2f4d-4459-81b8-39ccbf85a7e3)
 
-![project-intro](https://github.com/sserpilozdemir/auth-argon2/assets/69975085/c36d3d33-3e2d-4435-8889-6bf79294a247)
 
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
