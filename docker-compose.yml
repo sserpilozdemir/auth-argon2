@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:3000"  # Map port 8000 on the host to port 3000 in the container
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    environment:
+      - SQLITE_DB_PATH=/usr/src/app/data/devdatabase.db
