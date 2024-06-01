@@ -2,6 +2,9 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
+![project-intro](https://github.com/sserpilozdemir/auth-argon2/assets/69975085/c36d3d33-3e2d-4435-8889-6bf79294a247)
+
+
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
